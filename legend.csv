@@ -1,0 +1,35 @@
+Vigor-When I get up in the morning I feel like going to work	vigor1
+Vigor-At my work I feel bursting with energy	vigor2
+Vigor-At my work I always persevere even when things do not go well	vigor3
+Vigor-I can continue working for very long periods at a time	vigor4
+Vigor-At my job I am very resilient mentally	vigor5
+Vigor-At my job I feel strong and vigorous	vigor6
+	
+Dedication-To me my job is challenging	dedication1
+Dedication-My job inspires me	dedication2
+Dedication-I am enthusiastic about my job	dedication3
+Dedication-I am proud on the work that I do	dedication4
+Dedication-I find the work that I do full of meaning and purpose	dedication5
+	
+Absorption-When I am working I forget everything else around me	absorption1
+Absorption-Time flies when I am working	absorption2
+Absorption-I get carried away when I am working	absorption3
+Absorption-It is difficult to detach myself from my job	absorption4
+Absorption-I am immersed in my work	absorption5
+Absorption-I feel happy when I am working intensely	absorption6
+	
+Having to use multiple communication mediums hinders my ability to effectively perform work tasks	CM_multiple
+My communication mediums unreliability has affected my work negatively lately	CM_unreliability
+Having multiple different functionalities fit into a single communication medium positively impacts my work flow	CM_functionalities
+Being able to retrieve and search information easily from concurrent and past communications has positively affected my work lately	CM_information
+I have hard time focusing because I have to jump between different mediums	CM_jumping
+I have not been able to focus on my work because I receive so many notifications through different mediums	CM_notifications
+	
+I am satisfied with the different ways my company conveys important news	SN_news
+It is important to me to be able to discuss topics not related to work with my colleagues	SN_nonworktopics
+It is important to me to be able to discuss topics related to the industry we work in with my colleagues	SN_worktopics
+I feel like conversations I have online with my colleagues are at least as satisfactory as they are face-to-face	SN_onlineequalsf2f
+I feel like meetings online convey the non-verbal messages in the same way as at the office	SN_onlinenonverbal
+I feel lonelier when working remote	SN_remotelonely
+I feel like I multitask less when working from the office	SN_multitask
+If I had the chance I would rather communicate face-to-face than with digital mediums	SN_f2fvsdigital

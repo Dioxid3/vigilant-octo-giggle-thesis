@@ -1,0 +1,51 @@
+Age Group
+Work years (Current career)
+Line of work. Select closest that applies
+Working hours
+On average, I visit office where I see my colleagues
+My team consists of
+Vigor:When I get up in the morning, I feel like going to work.
+Vigor:At my work, I feel bursting with energy.
+Vigor:At my work I always persevere, even when things do not go well.
+Vigor:I can continue working for very long periods at a time.
+Vigor:At my job, I am very resilient, mentally.
+Vigor:At my job I feel strong and vigorous.
+Dedication:To me, my job is challenging.
+Dedication:My job inspires me.
+Dedication:I am enthusiastic about my job.
+Dedication:I am proud on the work that I do.
+Dedication:I find the work that I do full of meaning and purpose.
+Absorption:When I am working, I forget everything else around me.
+Absorption:Time flies when I am working.
+Absorption:I get carried away when I am working.
+Absorption:It is difficult to detach myself from my job.
+Absorption:I am immersed in my work.
+Absorption:I feel happy when I am working intensely.
+Company Wiki
+Email
+Slack
+Microsoft Teams
+Jira
+Productboard
+Something else:
+Something else: Open text answers
+CM_multiple
+CM_unreliability
+Having multiple different functionalities fit into a single communication medium , e.g. calendar, to-do list, etc, positively impacts my work flow
+CM_information
+CM_jumping
+CM_notifications
+This is an important feature to me: Themes
+This is an important feature to me: Emojis
+This is an important feature to me: Gifs
+This is an important feature to me: Automation of Workflows
+This is an important feature to me: Integrations to other applications
+This is an important feature to me: Amount of channels/chats
+SN_news
+SN_nonworktopics
+SN_worktopics
+SN_onlineequalsf2f
+SN_onlinenonverbal
+SN_remotelonely
+SN_multitask
+SN_f2fvsdigital
