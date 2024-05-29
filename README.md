@@ -1,13 +1,15 @@
 # vigilant-octo-giggle-thesis
-Permanent repo for thesis data and code
+This is a permanent repo for thesis questionnaire data and code, for free use and reproducability of results under the CC-zero license.
 
-# Notes for myself
+License allows for:
+# Permissions
+* Commercial use
+* Modification
+* Distribution
+* Private use
 
-## 11.5.2024:
-Box plots for both self-created Likert groups created. Variables have been grouped. It could be a nice way to describe data by having both boxplots and stacked histograms
-### Next up:
-1. Create histograms of the "tools used" ✅
-2. Demographic variables - require fixing of sorting
-3. Item testing?
-4. Correlations 
-5. Update thesis with new data
+# Limitations
+* Liability
+* Trademark use
+* Patent use
+* Warranty
